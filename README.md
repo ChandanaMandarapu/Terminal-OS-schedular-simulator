@@ -82,10 +82,11 @@ If a cycle is found, deadlock is detected and shown in red in the terminal.
 
 Add your screenshot below.
 
-Save your image as output.png in the project root.
 
-![Simulator Output](Screenshot (480).png)
-Screenshot (481).png
+
+![Simulator Output]
+beast_scheduler/Screenshot (480).png
+beast_scheduler/Screenshot (481).png
 
 ---
 
