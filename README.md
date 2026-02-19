@@ -80,13 +80,14 @@ If a cycle is found, deadlock is detected and shown in red in the terminal.
 
 ## Terminal output
 
-Add your screenshot below.
+Screenshot 1
 
+![Simulator Output 1](beast_scheduler/Screenshot%20(480).png)
 
+Screenshot 2
 
-![Simulator Output]
-beast_scheduler/Screenshot (480).png
-beast_scheduler/Screenshot (481).png
+![Simulator Output 2](beast_scheduler/Screenshot%20(481).png)
+
 
 ---
 
